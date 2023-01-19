@@ -27,7 +27,7 @@
 
 #### Bash scripting
 
-[Classic SysAdmin: Writing a Simple Bash Script](https://www.linuxfoundation.org/blog/classic-sysadmin-writing-a-simple-bash-script/) - The Linux Foundation
+[Classic SysAdmin: Writing a Simple Bash Script](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-writing-a-simple-bash-script) - The Linux Foundation
 
 [How to write Bash scripts in Linux](https://www.tomshardware.com/how-to/write-bash-scripts-linux) - Les Pounder, _Tom's Hardware_
 

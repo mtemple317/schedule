@@ -23,7 +23,7 @@
 
 [Getting started with VIM: The basics](https://opensource.com/article/19/3/getting-started-vim) - opensource.com
 
-[Classic SysAdmin: Vim 101: A Beginner’s Guide to Vim](https://linuxfoundation.org/blog/classic-sysadmin-vim-101-a-beginners-guide-to-vim/) - The Linux Foundation
+[Classic SysAdmin: Vim 101: A Beginner’s Guide to Vim](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-vim-101-a-beginners-guide-to-vim) - The Linux Foundation
 
 #### Bash scripting
 
